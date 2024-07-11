@@ -19,7 +19,6 @@ body, html {
 }
 
 .background-container {
-    background-image: url('/Kepek/background.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
